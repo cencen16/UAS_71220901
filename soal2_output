@@ -4,10 +4,16 @@ t.bgcolor("pink")
 t.pensize(3)
 
 t.penup()
-t.pendowm()
-t.drawing("kotak persegi", color=("yellow"))
-t.pencolor("yellow")
-t.goto(-300,40)
+t.pendown()
+t.pencolor("blue")
+
+t.circle(50)
+t.penright(30)
+t.write("HI !", font=("arial",50,""))
+
+t.penup()
+t.goto(100,50)
+t.done
 
 
 
