@@ -1,0 +1,21 @@
+print("****** Kredit keaktifan Mahasiswa ******")
+print("(Student Activities Credit)")
+print("1. Menambahkan Kegiatan")
+print("2. Menampilkan Jumlah Poin")
+print("3. Keluar")
+print("---------------------------")
+a=int(input("silahkan masukkan pilihan yang anda: "))
+b=(input("Nama Kegiatan: "))
+x=(input("Tanggal Kegiatan: "))
+y=(input("Pilihan Kategori Kegiatan: "))
+print("- Presentasi")
+print("- Organisasi")
+print("- Kepanitiaan")
+print("- Rekognisi")
+z=(input("Masukkan Kategori Kegiatan: "))
+
+print("Kegiatan berhasil ditambahkan. ")
+
+
+
+
