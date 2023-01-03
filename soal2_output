@@ -1,0 +1,18 @@
+import turtle
+t=turtle
+t.bgcolor("pink")
+t.pensize(3)
+
+t.penup()
+t.pendowm()
+t.drawing("kotak persegi", color=("yellow"))
+t.pencolor("yellow")
+t.goto(-300,40)
+
+
+
+
+
+
+
+
